@@ -12,7 +12,7 @@
 
 ## 年度汇总 ✨
 
-<img align="" height="165px" src="https://github-readme-stats.vercel.app/api?username=AlanYsc6&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYsc6&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="182px" src="https://github-readme-stats.vercel.app/api?username=AlanYsc6&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="182px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYsc6&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 最近贡献 📚 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanYsc6&theme=dracula&height=300&days=30&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanYsc6&theme=dracula&height=260&days=30&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
