@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 📫 How to reach me **alanysc@qq.com**
 - 😄 Read more about my Gitee: [alansyc](https://gitee.com/alanysc)
-- 🏡 作品：<a href="https://121.40.229.102" target="_blank">用户中心</a> | <a href="https://121.40.229.102:8000" target="_blank">寻爱网</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">外卖平台</a>
+- 🏡 works：<a href="https://121.40.229.102" target="_blank">用户中心</a> | <a href="https://121.40.229.102:8000" target="_blank">寻爱网</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">外卖平台</a>
 
 ## 语言和工具 👨‍💻
 
