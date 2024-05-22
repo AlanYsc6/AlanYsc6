@@ -9,7 +9,7 @@
 
 ## 语言和工具 👨‍💻
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,idea,git,postman,vue,react,webstorm,vscode,linux,c,cpp,clion,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,idea,maven.git,postman,vue,react,webstorm,vscode,linux,c,cpp,clion)](https://skillicons.dev)
 
 ## 年度汇总 ✨
 ## Annual Summary
