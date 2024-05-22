@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Alan</h1>
-<h3 align="center">一个程序员Boy！</h3>
+<h3 align="center">A Programmer Boy！</h3>
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -7,7 +7,7 @@
 - 😄 Read more about my Gitee: [here](https://gitee.com/alanysc)
 - 🏡 作品：<a href="https://121.40.229.102" target="_blank">用户中心</a> | <a href="https://121.40.229.102:8000" target="_blank">寻爱网</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">外卖平台</a>
 
-## Languages and Tools 👨‍💻
+## 语言和工具 👨‍💻
 
 <p align="left">  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
