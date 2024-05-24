@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 📫 How to reach me **alanysc@qq.com**
 - 😄 Read more about my Gitee: [alansyc](https://gitee.com/alanysc)
-- 🏡 works：<a href="https://121.40.229.102" target="_blank">用户中心</a> | <a href="https://121.40.229.102:8000" target="_blank">寻爱网</a> | <a href="https://github.com/AlanYsc6/sky-take-out" target="_blank">吃了么云定餐系统</a>
+- 🏡 works：<a href="https://121.40.229.102" target="_blank">用户中心</a> | <a href="https://121.40.229.102:8000" target="_blank">寻爱网</a> | <a href="https://github.com/AlanYsc6/sky-take-out" target="_blank">吃了么云订餐系统</a>
 
 ## Language and Tools
 ## 语言和工具 👨‍💻
